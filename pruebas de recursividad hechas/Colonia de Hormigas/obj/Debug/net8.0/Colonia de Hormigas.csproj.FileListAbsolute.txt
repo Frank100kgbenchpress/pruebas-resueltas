@@ -1,0 +1,14 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\refint\Colonia de Hormigas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\ref\Colonia de Hormigas.dll

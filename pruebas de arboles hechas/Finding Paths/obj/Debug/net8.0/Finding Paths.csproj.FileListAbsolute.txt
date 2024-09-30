@@ -1,0 +1,14 @@
+D:\programacion\pruebas de arboles hechas\Finding Paths\bin\Debug\net8.0\Finding Paths.exe
+D:\programacion\pruebas de arboles hechas\Finding Paths\bin\Debug\net8.0\Finding Paths.deps.json
+D:\programacion\pruebas de arboles hechas\Finding Paths\bin\Debug\net8.0\Finding Paths.runtimeconfig.json
+D:\programacion\pruebas de arboles hechas\Finding Paths\bin\Debug\net8.0\Finding Paths.dll
+D:\programacion\pruebas de arboles hechas\Finding Paths\bin\Debug\net8.0\Finding Paths.pdb
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\Finding Paths.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\Finding Paths.AssemblyInfoInputs.cache
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\Finding Paths.AssemblyInfo.cs
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\Finding Paths.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\Finding Paths.dll
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\refint\Finding Paths.dll
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\Finding Paths.pdb
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\Finding Paths.genruntimeconfig.cache
+D:\programacion\pruebas de arboles hechas\Finding Paths\obj\Debug\net8.0\ref\Finding Paths.dll

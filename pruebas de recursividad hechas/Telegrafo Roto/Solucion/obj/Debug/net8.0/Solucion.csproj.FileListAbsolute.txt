@@ -1,0 +1,14 @@
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\bin\Debug\net8.0\Solucion.exe
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\bin\Debug\net8.0\Solucion.deps.json
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\bin\Debug\net8.0\Solucion.runtimeconfig.json
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\bin\Debug\net8.0\Solucion.dll
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\bin\Debug\net8.0\Solucion.pdb
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\Solucion.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\Solucion.AssemblyInfoInputs.cache
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\Solucion.AssemblyInfo.cs
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\Solucion.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\Solucion.dll
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\refint\Solucion.dll
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\Solucion.pdb
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\Solucion.genruntimeconfig.cache
+D:\programacion\pruebas de recursividad hechas\Telegrafo Roto\Solucion\obj\Debug\net8.0\ref\Solucion.dll

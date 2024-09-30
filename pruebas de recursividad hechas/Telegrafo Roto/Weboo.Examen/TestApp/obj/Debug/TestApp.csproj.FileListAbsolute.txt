@@ -1,0 +1,8 @@
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\TestApp\bin\Debug\TestApp.exe
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\TestApp\bin\Debug\TestApp.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\TestApp\bin\Debug\Weboo.Examen.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\TestApp\bin\Debug\Weboo.Examen.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\TestApp\obj\Debug\TestApp.exe
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\TestApp\obj\Debug\TestApp.pdb

@@ -1,0 +1,14 @@
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\Patrones de desbloqueo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\Patrones de desbloqueo.AssemblyInfoInputs.cache
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\Patrones de desbloqueo.AssemblyInfo.cs
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\Patrones de desbloqueo.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\bin\Debug\net8.0\Patrones de desbloqueo.exe
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\bin\Debug\net8.0\Patrones de desbloqueo.deps.json
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\bin\Debug\net8.0\Patrones de desbloqueo.runtimeconfig.json
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\bin\Debug\net8.0\Patrones de desbloqueo.dll
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\bin\Debug\net8.0\Patrones de desbloqueo.pdb
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\Patrones de desbloqueo.dll
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\refint\Patrones de desbloqueo.dll
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\Patrones de desbloqueo.pdb
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\Patrones de desbloqueo.genruntimeconfig.cache
+D:\programacion\pruebas de recursividad hechas\Patrones de desbloqueo\obj\Debug\net8.0\ref\Patrones de desbloqueo.dll

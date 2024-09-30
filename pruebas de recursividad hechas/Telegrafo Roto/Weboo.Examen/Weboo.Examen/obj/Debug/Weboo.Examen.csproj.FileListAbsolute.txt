@@ -1,0 +1,5 @@
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Final\C1113- Amanda Gonzalez Borrell\Weboo.Examen\Weboo.Examen\obj\Debug\Weboo.Examen.pdb

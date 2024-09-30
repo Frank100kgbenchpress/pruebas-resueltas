@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Colonia de Hormigas/1.0.0": {
+        "runtime": {
+          "Colonia de Hormigas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Colonia de Hormigas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
