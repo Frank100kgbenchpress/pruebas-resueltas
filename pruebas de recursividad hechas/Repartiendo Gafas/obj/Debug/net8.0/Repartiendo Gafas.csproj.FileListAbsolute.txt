@@ -1,0 +1,15 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\refint\Repartiendo Gafas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\ref\Repartiendo Gafas.dll
