@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programacion\\pruebas de recursividad hechas\\Magic Sequences\\Magic Sequences.csproj",
+      "projectUniqueName": "D:\\programacion\\pruebas resueltas\\pruebas de recursividad hechas\\Magic Sequences\\Magic Sequences.csproj",
       "projectName": "Magic Sequences",
-      "projectPath": "D:\\programacion\\pruebas de recursividad hechas\\Magic Sequences\\Magic Sequences.csproj",
+      "projectPath": "D:\\programacion\\pruebas resueltas\\pruebas de recursividad hechas\\Magic Sequences\\Magic Sequences.csproj",
       "packagesPath": "C:\\Users\\alberto\\.nuget\\packages\\",
-      "outputPath": "D:\\programacion\\pruebas de recursividad hechas\\Magic Sequences\\obj\\",
+      "outputPath": "D:\\programacion\\pruebas resueltas\\pruebas de recursividad hechas\\Magic Sequences\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alberto\\AppData\\Roaming\\NuGet\\NuGet.Config"
