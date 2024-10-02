@@ -1,0 +1,15 @@
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\bin\Debug\net8.0\Home Comming.exe
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\bin\Debug\net8.0\Home Comming.deps.json
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\bin\Debug\net8.0\Home Comming.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\bin\Debug\net8.0\Home Comming.dll
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\bin\Debug\net8.0\Home Comming.pdb
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\Home Comming.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\Home Comming.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\Home Comming.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\Home Comming.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\Home Comming.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\Home Comming.dll
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\refint\Home Comming.dll
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\Home Comming.pdb
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\Home Comming.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de arboles hechas\Home Comming\obj\Debug\net8.0\ref\Home Comming.dll

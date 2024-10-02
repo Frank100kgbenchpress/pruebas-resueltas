@@ -1,0 +1,15 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\bin\Debug\net8.0\Juan Azucarado.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\bin\Debug\net8.0\Juan Azucarado.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\bin\Debug\net8.0\Juan Azucarado.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\bin\Debug\net8.0\Juan Azucarado.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\bin\Debug\net8.0\Juan Azucarado.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\Juan Azucarado.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\Juan Azucarado.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\Juan Azucarado.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\Juan Azucarado.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\Juan Azucarado.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\Juan Azucarado.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\refint\Juan Azucarado.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\Juan Azucarado.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\Juan Azucarado.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Azucarado\obj\Debug\net8.0\ref\Juan Azucarado.dll
