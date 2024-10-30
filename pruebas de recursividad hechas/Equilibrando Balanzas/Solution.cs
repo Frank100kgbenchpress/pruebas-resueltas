@@ -5,14 +5,14 @@ namespace Weboo.Examen
     {
         public static bool Equilibrar(IBalanza balanza, int bolas, int pesoBola)
         {
-            int pesoTotal = bolas * pesoBola;
-            return EquilibrarRecursivo(balanza, pesoTotal);
+            int pesoTotal = bolas * pesoBola;   //el peso total de las bolas para balancear
+            return EquilibrarRecursivo(balanza, pesoTotal); //funcion recursiva que balancea las bolas con logica divide y venceras
         }
 
         static bool EquilibrarRecursivo(IBalanza balanza, int pesoTotal)
         {
-            int largoIzquierdo = balanza.LargoIzquierdo;
-            int largoDerecho = balanza.LargoDerecho;
+            int largoIzquierdo = balanza.LargoIzquierdo;    // guardamos el largo de la balanza izquierda
+            int largoDerecho = balanza.LargoDerecho;        // guardamos el largo de la balanza derecha
 
             // Calculamos la proporción de pesos necesaria para el equilibrio
             int pesoIzquierdoNecesario = (pesoTotal * largoDerecho) / (largoIzquierdo + largoDerecho);

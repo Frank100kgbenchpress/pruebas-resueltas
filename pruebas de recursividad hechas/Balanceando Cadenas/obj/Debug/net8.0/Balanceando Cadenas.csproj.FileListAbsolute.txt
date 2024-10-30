@@ -12,3 +12,18 @@ C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ba
 C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.pdb
 C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\ref\Balanceando Cadenas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\refint\Balanceando Cadenas.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\ref\Balanceando Cadenas.dll

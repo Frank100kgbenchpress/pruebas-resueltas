@@ -1,59 +1,52 @@
-﻿
+﻿using System;  
+using System.Collections.Generic;  
 
-using System;
-using System.Collections.Generic;
+namespace Weboo.Examen  
+{  
+    public class CadenasBalanceadas  
+    {  
+        public static int MinOperacionesParaBalancear(string s)  
+        {  
+            Stack<char> stack = new Stack<char>();  
+            int operaciones = 0;  
 
-namespace Weboo.Examen
-{
-    public class CadenasBalanceadas
-    {
-        public static int MinOperacionesParaBalancear(string s)
-        {
-            if (s.Length % 2 != 0) return -1;  // Si tiene longitud impar, no se puede balancear
+            // Mapa de correspondencia de caracteres  
+            Dictionary<char, char> pares = new Dictionary<char, char>  
+            {  
+                { '(', ')' },  
+                { '{', '}' },  
+                { '[', ']' }  
+            };  
 
-            Stack<char> stack = new Stack<char>();
-            int replacements = 0;  // Contador de operaciones necesarias
+            // Mapa para verificar si un carácter es de apertura  
+            HashSet<char> apertura = new HashSet<char>(pares.Keys);  
+            // Mapa para verificar si un carácter es de cierre  
+            HashSet<char> cierre = new HashSet<char>(pares.Values);  
 
-            foreach (char c in s)
-            {
-                if (c == '(' || c == '{' || c == '[')
-                {
-                    stack.Push(c);  // Apilamos cualquier apertura
-                }
-                else
-                {
-                    if (stack.Count == 0)
-                    {
-                        // Si hay un cierre sin apertura correspondiente
-                        replacements++;
-                    }
-                    else
-                    {
-                        char top = stack.Peek();
-                        if ((c == ')' && top == '(') ||
-                            (c == '}' && top == '{') ||
-                            (c == ']' && top == '['))
-                        {
-                            stack.Pop();  // Desapilamos si es un par válido
-                        }
-                        else
-                        {
-                            // Reemplazamos porque hay un desajuste
-                            replacements++;
-                            stack.Pop();
-                        }
-                    }
-                }
-            }
+            foreach (char c in s)  
+            {  
+                if (apertura.Contains(c))  
+                {  
+                    stack.Push(c);  
+                }  
+                else if (cierre.Contains(c))  
+                {  
+                    if (stack.Count > 0 && pares[stack.Peek()] == c)  
+                    {  
+                        stack.Pop(); // Se encuentra un par balanceado  
+                    }  
+                    else  
+                    {  
+                        operaciones++; // Se necesita una operación para balancear  
+                    }  
+                }  
+            }  
 
-            // Si quedan elementos en la pila, significa que son aperturas sin cerrar
-            while (stack.Count > 0)
-            {
-                replacements++;
-                stack.Pop();
-            }
+            // Al final, los elementos restantes en la pila son los que no se han balanceado  
+            operaciones += stack.Count;  
 
-            return replacements;
-        }
-    }
+            // Si hay más operaciones que caracteres, no se puede balancear  
+            return operaciones % 2 == 0 ? operaciones / 2 : -1;  
+        }  
+    }  
 }
