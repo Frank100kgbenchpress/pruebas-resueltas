@@ -26,3 +26,18 @@ c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Cic
 c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.pdb
 C:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\ref\Temporada Ciclónica.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\refint\Temporada Ciclónica.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\ref\Temporada Ciclónica.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Temporada Ciclónica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22ee392a231622ae81b8a454d0cf3b870fd929c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Temporada Ciclónica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Temporada Ciclónica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
