@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\refint\Encrucijada del caminante.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\ref\Encrucijada del caminante.dll

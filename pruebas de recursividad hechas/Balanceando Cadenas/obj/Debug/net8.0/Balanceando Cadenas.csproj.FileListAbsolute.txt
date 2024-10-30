@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\bin\Debug\net8.0\Balanceando Cadenas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\refint\Balanceando Cadenas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\Balanceando Cadenas.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Balanceando Cadenas\obj\Debug\net8.0\ref\Balanceando Cadenas.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Balanceando Cadenas/1.0.0": {
+        "runtime": {
+          "Balanceando Cadenas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Balanceando Cadenas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

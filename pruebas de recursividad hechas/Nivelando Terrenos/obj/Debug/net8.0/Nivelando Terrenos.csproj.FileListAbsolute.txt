@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\bin\Debug\net8.0\Nivelando Terrenos.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\bin\Debug\net8.0\Nivelando Terrenos.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\bin\Debug\net8.0\Nivelando Terrenos.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\bin\Debug\net8.0\Nivelando Terrenos.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\bin\Debug\net8.0\Nivelando Terrenos.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\Nivelando Terrenos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\Nivelando Terrenos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\Nivelando Terrenos.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\Nivelando Terrenos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\Nivelando Terrenos.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\refint\Nivelando Terrenos.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\Nivelando Terrenos.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\Nivelando Terrenos.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Nivelando Terrenos\obj\Debug\net8.0\ref\Nivelando Terrenos.dll

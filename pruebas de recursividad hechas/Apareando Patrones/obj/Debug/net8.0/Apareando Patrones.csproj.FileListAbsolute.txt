@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\bin\Debug\net8.0\Apareando Patrones.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\bin\Debug\net8.0\Apareando Patrones.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\bin\Debug\net8.0\Apareando Patrones.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\bin\Debug\net8.0\Apareando Patrones.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\bin\Debug\net8.0\Apareando Patrones.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\Apareando Patrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\Apareando Patrones.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\Apareando Patrones.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\Apareando Patrones.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\Apareando Patrones.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\refint\Apareando Patrones.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\Apareando Patrones.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\Apareando Patrones.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Apareando Patrones\obj\Debug\net8.0\ref\Apareando Patrones.dll

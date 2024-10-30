@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programacion\\pruebas resueltas\\pruebas de recursividad hechas\\Colonia de Hormigas\\Colonia de Hormigas.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Colonia de Hormigas\\Colonia de Hormigas.csproj": {}
   },
   "projects": {
-    "D:\\programacion\\pruebas resueltas\\pruebas de recursividad hechas\\Colonia de Hormigas\\Colonia de Hormigas.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Colonia de Hormigas\\Colonia de Hormigas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programacion\\pruebas resueltas\\pruebas de recursividad hechas\\Colonia de Hormigas\\Colonia de Hormigas.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Colonia de Hormigas\\Colonia de Hormigas.csproj",
         "projectName": "Colonia de Hormigas",
-        "projectPath": "D:\\programacion\\pruebas resueltas\\pruebas de recursividad hechas\\Colonia de Hormigas\\Colonia de Hormigas.csproj",
-        "packagesPath": "C:\\Users\\alberto\\.nuget\\packages\\",
-        "outputPath": "D:\\programacion\\pruebas resueltas\\pruebas de recursividad hechas\\Colonia de Hormigas\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Colonia de Hormigas\\Colonia de Hormigas.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Colonia de Hormigas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alberto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

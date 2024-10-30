@@ -7,27 +7,26 @@ namespace TelegrafoRoto
         public static IEnumerable<string> DecodificarMensaje(Dictionary<char, string> alfabeto, string mensaje)
         {
             List<string> result  = new();
-            BackTrack(alfabeto,mensaje,0,new StringBuilder(),result);
-            return result.Count > 0 ? result : null;
-        }
-        static void BackTrack(Dictionary<char, string> alfabeto, string mensaje, int index , StringBuilder actualWord , List<string> result)
-        {
-            if (index == mensaje.Length)
+            Backtrack(0,new StringBuilder());
+            void Backtrack(int index,StringBuilder actualWord)
             {
-                result.Add(actualWord.ToString());
-                return;
-            }
-            foreach (var entrada in alfabeto)
-            {
-                string code = entrada.Value;
-                if (mensaje.Substring(index).StartsWith(code))
+                if(index == mensaje.Length)
                 {
-                    actualWord.Append(entrada.Key);
-                    BackTrack(alfabeto, mensaje, index + code.Length, actualWord, result);
-                    actualWord.Length -= 1;
+                    result.Add(actualWord.ToString());
+                    return;
                 }
-            }
-
+                foreach(var entrada in alfabeto)
+                {
+                    string code = entrada.Value;
+                    if(mensaje.Substring(index).StartsWith(code))
+                    {
+                        actualWord.Append(entrada.Key);
+                        Backtrack(index+code.Length,actualWord);
+                        actualWord.Length -=1;
+                    }
+                }
+            }            
+            return result.Count > 0 ? result : null;
         }
     }   
 }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balanceando Cadenas", "Balanceando Cadenas.csproj", "{5D0942BE-559F-4608-B28C-99754B48FBC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0942BE-559F-4608-B28C-99754B48FBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0942BE-559F-4608-B28C-99754B48FBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0942BE-559F-4608-B28C-99754B48FBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0942BE-559F-4608-B28C-99754B48FBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19755DD-7207-4744-88F9-FE6C0BCBF4E7}
+	EndGlobalSection
+EndGlobal

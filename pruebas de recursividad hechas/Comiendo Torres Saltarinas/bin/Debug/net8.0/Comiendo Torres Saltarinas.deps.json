@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Comiendo Torres Saltarinas/1.0.0": {
+        "runtime": {
+          "Comiendo Torres Saltarinas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comiendo Torres Saltarinas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

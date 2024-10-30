@@ -13,3 +13,17 @@ D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gaf
 D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.pdb
 D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.genruntimeconfig.cache
 D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\ref\Repartiendo Gafas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\bin\Debug\net8.0\Repartiendo Gafas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\refint\Repartiendo Gafas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\Repartiendo Gafas.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Repartiendo Gafas\obj\Debug\net8.0\ref\Repartiendo Gafas.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enlazando Pelotas", "Enlazando Pelotas.csproj", "{8E0D8B01-B349-48E8-8E8E-B1122F992E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0D8B01-B349-48E8-8E8E-B1122F992E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0D8B01-B349-48E8-8E8E-B1122F992E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0D8B01-B349-48E8-8E8E-B1122F992E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0D8B01-B349-48E8-8E8E-B1122F992E68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109DD140-EBDE-4429-9D2E-D550AC35EA3F}
+	EndGlobalSection
+EndGlobal

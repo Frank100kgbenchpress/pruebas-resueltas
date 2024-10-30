@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Molecules\Molecules\bin\Debug\net8.0\Molecules.exe
+C:\Users\Lenovo\Desktop\Molecules\Molecules\bin\Debug\net8.0\Molecules.deps.json
+C:\Users\Lenovo\Desktop\Molecules\Molecules\bin\Debug\net8.0\Molecules.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Molecules\Molecules\bin\Debug\net8.0\Molecules.dll
+C:\Users\Lenovo\Desktop\Molecules\Molecules\bin\Debug\net8.0\Molecules.pdb
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\Molecules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\Molecules.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\Molecules.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\Molecules.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\Molecules.dll
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\refint\Molecules.dll
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\Molecules.pdb
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\Molecules.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Molecules\Molecules\obj\Debug\net8.0\ref\Molecules.dll

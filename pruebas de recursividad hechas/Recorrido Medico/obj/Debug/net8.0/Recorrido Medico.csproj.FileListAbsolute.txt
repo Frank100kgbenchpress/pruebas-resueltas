@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\bin\Debug\net8.0\Recorrido Medico.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\bin\Debug\net8.0\Recorrido Medico.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\bin\Debug\net8.0\Recorrido Medico.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\bin\Debug\net8.0\Recorrido Medico.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\bin\Debug\net8.0\Recorrido Medico.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\Recorrido Medico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\Recorrido Medico.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\Recorrido Medico.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\Recorrido Medico.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\Recorrido Medico.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\refint\Recorrido Medico.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\Recorrido Medico.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\Recorrido Medico.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Recorrido Medico\obj\Debug\net8.0\ref\Recorrido Medico.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Magic Sequences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+062fcbb86ece240dec5477a65189135788763056")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Magic Sequences")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Magic Sequences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

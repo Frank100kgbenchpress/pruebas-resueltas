@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\bin\Debug\net8.0\Ranas Suizas.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\bin\Debug\net8.0\Ranas Suizas.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\bin\Debug\net8.0\Ranas Suizas.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\bin\Debug\net8.0\Ranas Suizas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\bin\Debug\net8.0\Ranas Suizas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\Ranas Suizas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\Ranas Suizas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\Ranas Suizas.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\Ranas Suizas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\Ranas Suizas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\refint\Ranas Suizas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\Ranas Suizas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\Ranas Suizas.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Ranas Suizas\obj\Debug\net8.0\ref\Ranas Suizas.dll

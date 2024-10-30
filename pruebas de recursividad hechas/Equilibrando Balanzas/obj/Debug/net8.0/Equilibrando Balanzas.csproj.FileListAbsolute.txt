@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\bin\Debug\net8.0\Equilibrando Balanzas.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\bin\Debug\net8.0\Equilibrando Balanzas.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\bin\Debug\net8.0\Equilibrando Balanzas.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\bin\Debug\net8.0\Equilibrando Balanzas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\bin\Debug\net8.0\Equilibrando Balanzas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\Equilibrando Balanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\Equilibrando Balanzas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\Equilibrando Balanzas.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\Equilibrando Balanzas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\Equilibrando Balanzas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\refint\Equilibrando Balanzas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\Equilibrando Balanzas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\Equilibrando Balanzas.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Equilibrando Balanzas\obj\Debug\net8.0\ref\Equilibrando Balanzas.dll

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\bin\Debug\net8.0\Magic Sequences.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\bin\Debug\net8.0\Magic Sequences.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\bin\Debug\net8.0\Magic Sequences.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\bin\Debug\net8.0\Magic Sequences.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\bin\Debug\net8.0\Magic Sequences.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\Magic Sequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\Magic Sequences.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\Magic Sequences.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\Magic Sequences.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\Magic Sequences.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\refint\Magic Sequences.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\Magic Sequences.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\Magic Sequences.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Magic Sequences\obj\Debug\net8.0\ref\Magic Sequences.dll

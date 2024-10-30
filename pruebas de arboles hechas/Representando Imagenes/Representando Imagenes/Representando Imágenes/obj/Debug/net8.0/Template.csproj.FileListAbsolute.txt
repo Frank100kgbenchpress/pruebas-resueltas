@@ -1,0 +1,28 @@
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.exe
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.deps.json
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.runtimeconfig.json
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.dll
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.pdb
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.AssemblyInfoInputs.cache
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.AssemblyInfo.cs
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.dll
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\refint\Template.dll
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.pdb
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.genruntimeconfig.cache
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\ref\Template.dll
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.exe
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.deps.json
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.dll
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.pdb
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.dll
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\refint\Template.dll
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.pdb
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Representando Imagenes\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\ref\Template.dll

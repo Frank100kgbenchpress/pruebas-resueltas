@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\bin\Debug\net8.0\Tu Envio.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\bin\Debug\net8.0\Tu Envio.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\bin\Debug\net8.0\Tu Envio.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\bin\Debug\net8.0\Tu Envio.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\bin\Debug\net8.0\Tu Envio.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\Tu Envio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\Tu Envio.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\Tu Envio.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\Tu Envio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\Tu Envio.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\refint\Tu Envio.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\Tu Envio.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\Tu Envio.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Tu Envio\obj\Debug\net8.0\ref\Tu Envio.dll

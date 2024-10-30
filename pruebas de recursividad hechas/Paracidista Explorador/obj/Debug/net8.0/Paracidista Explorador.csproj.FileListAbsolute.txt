@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\bin\Debug\net8.0\Paracidista Explorador.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\bin\Debug\net8.0\Paracidista Explorador.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\bin\Debug\net8.0\Paracidista Explorador.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\bin\Debug\net8.0\Paracidista Explorador.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\bin\Debug\net8.0\Paracidista Explorador.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\Paracidista Explorador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\Paracidista Explorador.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\Paracidista Explorador.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\Paracidista Explorador.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\Paracidista Explorador.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\refint\Paracidista Explorador.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\Paracidista Explorador.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\Paracidista Explorador.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Paracidista Explorador\obj\Debug\net8.0\ref\Paracidista Explorador.dll

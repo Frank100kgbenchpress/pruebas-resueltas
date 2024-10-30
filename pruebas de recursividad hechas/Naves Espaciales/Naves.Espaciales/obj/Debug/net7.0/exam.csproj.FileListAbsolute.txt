@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\bin\Debug\net7.0\exam.exe
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\bin\Debug\net7.0\exam.deps.json
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\bin\Debug\net7.0\exam.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\bin\Debug\net7.0\exam.dll
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\bin\Debug\net7.0\exam.pdb
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\exam.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\exam.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\exam.dll
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\refint\exam.dll
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\exam.pdb
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\exam.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Naves Espaciales\Naves.Espaciales\obj\Debug\net7.0\ref\exam.dll

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\bin\Debug\net8.0\Camino Seguro Para El Rey.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\bin\Debug\net8.0\Camino Seguro Para El Rey.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\bin\Debug\net8.0\Camino Seguro Para El Rey.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\bin\Debug\net8.0\Camino Seguro Para El Rey.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\bin\Debug\net8.0\Camino Seguro Para El Rey.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\Camino Seguro Para El Rey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\Camino Seguro Para El Rey.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\Camino Seguro Para El Rey.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\Camino Seguro Para El Rey.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\Camino Seguro Para El Rey.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\refint\Camino Seguro Para El Rey.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\Camino Seguro Para El Rey.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\Camino Seguro Para El Rey.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Camino Seguro Para El Rey\obj\Debug\net8.0\ref\Camino Seguro Para El Rey.dll

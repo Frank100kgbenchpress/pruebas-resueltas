@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\bin\Debug\net8.0\Hermanos en Desacuerdo.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\bin\Debug\net8.0\Hermanos en Desacuerdo.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\bin\Debug\net8.0\Hermanos en Desacuerdo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\bin\Debug\net8.0\Hermanos en Desacuerdo.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\bin\Debug\net8.0\Hermanos en Desacuerdo.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\Hermanos en Desacuerdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\Hermanos en Desacuerdo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\Hermanos en Desacuerdo.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\Hermanos en Desacuerdo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\Hermanos en Desacuerdo.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\refint\Hermanos en Desacuerdo.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\Hermanos en Desacuerdo.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\Hermanos en Desacuerdo.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Hermanos en Desacuerdo\obj\Debug\net8.0\ref\Hermanos en Desacuerdo.dll

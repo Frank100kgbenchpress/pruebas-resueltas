@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repartiendo Gafas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86e08981e0a3790a762e738737247b6ebc557ee8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repartiendo Gafas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repartiendo Gafas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

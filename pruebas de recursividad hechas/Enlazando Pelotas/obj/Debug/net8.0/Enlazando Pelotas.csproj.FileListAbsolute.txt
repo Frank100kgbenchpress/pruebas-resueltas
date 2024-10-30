@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\bin\Debug\net8.0\Enlazando Pelotas.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\bin\Debug\net8.0\Enlazando Pelotas.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\bin\Debug\net8.0\Enlazando Pelotas.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\bin\Debug\net8.0\Enlazando Pelotas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\bin\Debug\net8.0\Enlazando Pelotas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\Enlazando Pelotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\Enlazando Pelotas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\Enlazando Pelotas.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\Enlazando Pelotas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\Enlazando Pelotas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\refint\Enlazando Pelotas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\Enlazando Pelotas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\Enlazando Pelotas.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Enlazando Pelotas\obj\Debug\net8.0\ref\Enlazando Pelotas.dll

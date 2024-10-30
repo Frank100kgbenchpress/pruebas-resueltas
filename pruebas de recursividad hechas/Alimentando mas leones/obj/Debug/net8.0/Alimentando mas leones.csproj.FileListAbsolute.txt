@@ -1,0 +1,15 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\bin\Debug\net8.0\Alimentando mas leones.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\bin\Debug\net8.0\Alimentando mas leones.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\bin\Debug\net8.0\Alimentando mas leones.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\bin\Debug\net8.0\Alimentando mas leones.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\bin\Debug\net8.0\Alimentando mas leones.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\Alimentando mas leones.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\Alimentando mas leones.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\Alimentando mas leones.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\Alimentando mas leones.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\Alimentando mas leones.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\Alimentando mas leones.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\refint\Alimentando mas leones.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\Alimentando mas leones.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\Alimentando mas leones.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Alimentando mas leones\obj\Debug\net8.0\ref\Alimentando mas leones.dll

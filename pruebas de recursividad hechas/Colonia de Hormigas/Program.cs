@@ -9,7 +9,6 @@
             List<int> aux = new();      // lista auxiliar que usamos para actualizar el mejor camino para retornar
             int max = int.MinValue;     // entero para verificar si hubo mejor camino en el Backtrack
             Backtrack(colony,mask,threshold,0,0,0,solve,ref max,aux);   //llamado al metodo Backtrack
-            
             List<int> result = new List<int>(aux); // Lista que vamos a llenar con el resultado del llamado recursivo
             aux.Reverse();                          // como la hormiga tiene que regresar por donde mismo volvio seria simplemente añadirle a la lista la misma lista al reves
             result.AddRange(aux.Skip(1));           // añadimos a la lista la lista invertida quitando el primer elemento para que no se repitan primero y ultimo
