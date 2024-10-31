@@ -1,0 +1,15 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\refint\Teclado Telefonico.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\ref\Teclado Telefonico.dll
