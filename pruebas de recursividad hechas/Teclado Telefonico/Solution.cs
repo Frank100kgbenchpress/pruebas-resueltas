@@ -4,7 +4,7 @@ using System.Linq;
 
 public class Extraordinario
 {
-    static Dictionary<char, string> tecladoMap = new Dictionary<char, string>
+    static readonly Dictionary<char, string> tecladoMap = new Dictionary<char, string>
     {
         {'2', "ABC"},
         {'3', "DEF"},
