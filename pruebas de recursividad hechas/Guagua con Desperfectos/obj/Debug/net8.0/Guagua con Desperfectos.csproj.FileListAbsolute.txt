@@ -1,0 +1,15 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\bin\Debug\net8.0\Guagua con Desperfectos.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\bin\Debug\net8.0\Guagua con Desperfectos.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\bin\Debug\net8.0\Guagua con Desperfectos.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\bin\Debug\net8.0\Guagua con Desperfectos.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\bin\Debug\net8.0\Guagua con Desperfectos.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\Guagua con Desperfectos.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\Guagua con Desperfectos.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\Guagua con Desperfectos.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\Guagua con Desperfectos.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\Guagua con Desperfectos.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\Guagua con Desperfectos.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\refint\Guagua con Desperfectos.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\Guagua con Desperfectos.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\Guagua con Desperfectos.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Guagua con Desperfectos\obj\Debug\net8.0\ref\Guagua con Desperfectos.dll
