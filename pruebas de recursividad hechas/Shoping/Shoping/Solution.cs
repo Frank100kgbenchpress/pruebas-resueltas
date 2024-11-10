@@ -103,7 +103,3 @@ public static class Exam
         return result;
     }
 }
-
-
-            
-
