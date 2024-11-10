@@ -41,3 +41,18 @@ C:\Users\alberto\Desktop\Shoping\Shoping\obj\Debug\net8.0\refint\Shoping.dll
 C:\Users\alberto\Desktop\Shoping\Shoping\obj\Debug\net8.0\Shoping.pdb
 C:\Users\alberto\Desktop\Shoping\Shoping\obj\Debug\net8.0\Shoping.genruntimeconfig.cache
 C:\Users\alberto\Desktop\Shoping\Shoping\obj\Debug\net8.0\ref\Shoping.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\bin\Debug\net8.0\Shoping.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\bin\Debug\net8.0\Shoping.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\bin\Debug\net8.0\Shoping.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\bin\Debug\net8.0\Shoping.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\bin\Debug\net8.0\Shoping.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\Shoping.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\Shoping.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\Shoping.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\Shoping.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\Shoping.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\Shoping.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\refint\Shoping.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\Shoping.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\Shoping.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Shoping\Shoping\obj\Debug\net8.0\ref\Shoping.dll

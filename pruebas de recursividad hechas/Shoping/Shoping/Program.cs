@@ -53,7 +53,7 @@ static class Program
 
         int result = Exam.Solve(products, combos, desired);
         Console.WriteLine(result);
-        Debug.Assert(result <= 21000);
+        Debug.Assert(result == 20000);
     }
 }
 
