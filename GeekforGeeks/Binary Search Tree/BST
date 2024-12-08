@@ -1,0 +1,69 @@
+class Solution:
+    def findPreSuc(self, root, pre, suc, key):
+        # Variable para almacenar los nodos predecesor y sucesor temporalmente
+        self.pre = None
+        self.suc = None
+
+        # Función para recorrer el árbol y actualizar pre y suc
+        def inorderTraversal(node):
+            if not node:
+                return
+            
+            # Recorremos el lado izquierdo
+            inorderTraversal(node.left)
+            
+            # Actualizar el predecesor
+            if node.key < key:
+                self.pre = node
+            
+            # Actualizar el sucesor
+            if node.key > key and not self.suc:
+                self.suc = node
+            
+            # Recorremos el lado derecho
+            inorderTraversal(node.right)
+
+        # Realizamos el recorrido inorden
+        inorderTraversal(root)
+
+        # Actualizar pre y suc con los valores correspondientes
+        if self.pre:
+            pre.key = self.pre.key
+        if self.suc:
+            suc.key = self.suc.key
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.left = None
+        self.right = None
+
+class Solution2:
+    # Función para verificar si un árbol binario es BST.
+    def isBST(self, root):
+        def validate(node, low=float('-inf'), high=float('inf')):
+            if not node:  # Si el nodo es nulo, es válido.
+                return True
+            # Verificamos si el valor del nodo está fuera del rango permitido.
+            if node.data <= low or node.data >= high:
+                return False
+            # Validamos recursivamente los subárboles derecho e izquierdo.
+            return validate(node.right, node.data, high) and validate(node.left, low, node.data)
+        
+        return validate(root)
+"""
+class Node:
+    def __init__(self, val):
+        self.right = None
+        self.data = val
+        self.left = None
+"""
+
+class Solution3:
+    #Function to find the minimum element in the given BST.
+    def minValue(self, root):
+        ##Your code here
+        def findMin(node):
+            if not node.left:
+                return node.data
+            return findMin(node.left)
+        return findMin(root)
