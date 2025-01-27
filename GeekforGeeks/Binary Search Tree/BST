@@ -67,3 +67,40 @@ class Solution3:
                 return node.data
             return findMin(node.left)
         return findMin(root)
+class Solution4:
+    def findCeil(self,root, inp):
+        # code here
+        if root is None:
+            return -1
+        if root.key == inp:
+            return root.key
+        if root.key > inp:
+            ceil =  self.findCeil(root.left,inp)
+            return root.key if ceil == -1 else ceil
+        return self.findCeil(root.right,inp)
+class Solution5:
+    def getCount(self,root,low,high):
+        ##Your code here
+        return self.calculate(root,low,high,0)
+        
+    def calculate (self,root,low,high,counter):
+        if root is None:
+            return counter
+        if low <= root.data <= high:
+            counter +=1
+        counter =  self.calculate(root.left,low,high,counter)  
+        counter = self.calculate(root.right,low,high,counter)
+        return counter    
+class Closest:
+    def minDiff(self,root, K):
+        # code here
+        return self.search(root,K,float('inf'))
+    def search(self,node,k,dif):
+        if node is None:
+            return dif
+        if node.data == k:
+            return 0
+        dif = min(dif,abs(node.data - k))
+        if node.data > k:
+            return self.search(node.left,k,dif)
+        return self.search(node.right,k,dif)

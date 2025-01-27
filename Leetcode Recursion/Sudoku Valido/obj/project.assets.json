@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\alberto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Sudoku Valido\\Sudoku Valido.csproj",
+      "projectUniqueName": "D:\\programacion\\pruebas resueltas\\Leetcode Recursion\\Sudoku Valido\\Sudoku Valido.csproj",
       "projectName": "Sudoku Valido",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Sudoku Valido\\Sudoku Valido.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Sudoku Valido\\obj\\",
+      "projectPath": "D:\\programacion\\pruebas resueltas\\Leetcode Recursion\\Sudoku Valido\\Sudoku Valido.csproj",
+      "packagesPath": "C:\\Users\\alberto\\.nuget\\packages\\",
+      "outputPath": "D:\\programacion\\pruebas resueltas\\Leetcode Recursion\\Sudoku Valido\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\alberto\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "loe9Y5NsmBbEisfqpzrW3eI1pwnVEacCeik67MaC4brJKIH7IEgOJhzYeFpqRMDcGzZuHSiL3IKw9wRCpr5TRw==",
+  "dgSpecHash": "fujH0u31+zUteyoT1Jcxx+Te5h+U7n+AZBWDxJFVyEkcp3Mzh9rprKG3vrqe5h+AfUW3OeUvYqRJSUQwmSyQ/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\pruebas-resueltas-main\\pruebas de recursividad hechas\\Sudoku Valido\\Sudoku Valido.csproj",
+  "projectFilePath": "D:\\programacion\\pruebas resueltas\\Leetcode Recursion\\Sudoku Valido\\Sudoku Valido.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
